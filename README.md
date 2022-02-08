@@ -1,9 +1,5 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rocky_mountains_banner.jpg/798px-Rocky_mountains_banner.jpg' style='height:250%; width:100%;'></img>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-tachini-947134bb/)
-[![](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/ivan_tachini)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.tachini@gmail.com)
-
 
 ### Greetings 👋  I am Ivan Tachini 
 
@@ -53,6 +49,11 @@ Cool Projects I am working on:
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-tachini-947134bb/)
+[![](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/ivan_tachini)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.tachini@gmail.com)
+
 
 
 <!--
