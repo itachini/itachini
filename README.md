@@ -3,7 +3,7 @@
 
 ### Greetings 👋  I am Ivan Tachini 
 
-**I'm a Telecommunications Systems Engineer in Utah who loves tinkering with cutting edge technology and solving the big problems.**
+**I'm a Telecommunications Systems Engineer in Utah who loves tinkering with cutting edge technology and solving big problems.**
 
 Currently Working on getting my Kubernetes Certified Administrator Certification
 
