@@ -7,7 +7,6 @@
 
 Currently Working on getting my Kubernetes Certified Administrator Certification
 
-Cool Projects I am working on:
 
   
 
